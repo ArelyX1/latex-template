@@ -1,0 +1,287 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{sharples2016blockchain}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=7a437be86720cf08d211d8b313799a2a}{%
+           family={Sharples},
+           familyi={S\bibinitperiod},
+           given={Mike},
+           giveni={M\bibinitperiod}}}%
+        {{hash=23da58ff7ebdb21faf2f06152091b1b0}{%
+           family={Domingue},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lyon, France}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{336f401f94939456214af65ea2b19277}
+      \strng{fullhash}{336f401f94939456214af65ea2b19277}
+      \strng{fullhashraw}{336f401f94939456214af65ea2b19277}
+      \strng{bibnamehash}{336f401f94939456214af65ea2b19277}
+      \strng{authorbibnamehash}{336f401f94939456214af65ea2b19277}
+      \strng{authornamehash}{336f401f94939456214af65ea2b19277}
+      \strng{authorfullhash}{336f401f94939456214af65ea2b19277}
+      \strng{authorfullhashraw}{336f401f94939456214af65ea2b19277}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 11th European Conference on Technology Enhanced Learning (EC-TEL)}
+      \field{title}{The Blockchain and Edu: A New Paradigm for Academic Degrees and Records}
+      \field{year}{2016}
+      \field{pages}{356\bibrangedash 369}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-3-319-45153-4_28
+      \endverb
+    \endentry
+    \entry{tolmach2021survey}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=80c166c9bc2ac71d22bc7569f0f3c02c}{%
+           family={Tolmach},
+           familyi={T\bibinitperiod},
+           given={Pythia},
+           giveni={P\bibinitperiod}}}%
+        {{hash=cf1f0547c288eff0857572dcc12516bb}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e42b78e99230c885b23c13313f2e45a8}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Shang-Wei},
+           giveni={S\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=621013bf54d3546375ad71f17f020b5b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c40021d71ab4e6b82cf96fdbb2440180}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Huafeng},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM New York, NY, USA}%
+      }
+      \strng{namehash}{49e505a31e4c5b0144ec713fd91e4c2e}
+      \strng{fullhash}{4298dc0b0fd4ee03935e11b423afe52e}
+      \strng{fullhashraw}{4298dc0b0fd4ee03935e11b423afe52e}
+      \strng{bibnamehash}{4298dc0b0fd4ee03935e11b423afe52e}
+      \strng{authorbibnamehash}{4298dc0b0fd4ee03935e11b423afe52e}
+      \strng{authornamehash}{49e505a31e4c5b0144ec713fd91e4c2e}
+      \strng{authorfullhash}{4298dc0b0fd4ee03935e11b423afe52e}
+      \strng{authorfullhashraw}{4298dc0b0fd4ee03935e11b423afe52e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{number}{6}
+      \field{title}{A Survey on Formal Verification of Smart Contracts}
+      \field{volume}{54}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 44}
+      \range{pages}{44}
+    \endentry
+    \entry{stefanko2023paraspell}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=8da3433f5cfeccde8c3d8b1a1c4cde15}{%
+           family={Štefanko},
+           familyi={Š\bibinitperiod},
+           given={Dušan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=adf404094b3cb21c69ceb6ce702a348b}{%
+           family={Zaujec},
+           familyi={Z\bibinitperiod},
+           given={Marián},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{fullhash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{fullhashraw}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{bibnamehash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{authorbibnamehash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{authornamehash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{authorfullhash}{81ff344d6248493aff33dd6ebd654f06}
+      \strng{authorfullhashraw}{81ff344d6248493aff33dd6ebd654f06}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 IEEE International Conference on Blockchain}
+      \field{title}{ParaSpell XCM SDK: A New Protocol for Interoperability in Polkadot Paraverse}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1109/Blockchain.2023.10338906
+      \endverb
+    \endentry
+    \entry{gao2022blockchain}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=2f5701c878bce91512376ae6d271a08e}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Jianjun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2fffc5441d311d30e0eed315d68e238a}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Huateng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e307beacfd7565c86c3a70e1564d6de1}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Guoquan},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2b4cb970767e33e9e2919f185c2b3753}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{32fb9a90a6b12754041b4a018af05261}
+      \strng{fullhash}{6c4beacfdb5588485d13fc682a4fb481}
+      \strng{fullhashraw}{6c4beacfdb5588485d13fc682a4fb481}
+      \strng{bibnamehash}{6c4beacfdb5588485d13fc682a4fb481}
+      \strng{authorbibnamehash}{6c4beacfdb5588485d13fc682a4fb481}
+      \strng{authornamehash}{32fb9a90a6b12754041b4a018af05261}
+      \strng{authorfullhash}{6c4beacfdb5588485d13fc682a4fb481}
+      \strng{authorfullhashraw}{6c4beacfdb5588485d13fc682a4fb481}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Software Engineering}
+      \field{number}{10}
+      \field{title}{Blockchain Testing: Challenges, Techniques, and Frontiers}
+      \field{volume}{48}
+      \field{year}{2022}
+      \field{pages}{4122\bibrangedash 4145}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1109/TSE.2021.3106380
+      \endverb
+    \endentry
+    \entry{parity2024substrate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=32aa8b1b5640b26eb82501941c94b29f}{%
+           family={{Parity Technologies}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{fullhash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{fullhashraw}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{bibnamehash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{authorbibnamehash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{authornamehash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{authorfullhash}{32aa8b1b5640b26eb82501941c94b29f}
+      \strng{authorfullhashraw}{32aa8b1b5640b26eb82501941c94b29f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Substrate Documentation: Testing and Debugging}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/substrate/index.html
+      \endverb
+      \verb{url}
+      \verb https://paritytech.github.io/polkadot-sdk/master/polkadot_sdk_docs/polkadot_sdk/substrate/index.html
+      \endverb
+    \endentry
+    \entry{bernardi2021sumo}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=5825094839fda23c3fa10d13022704fd}{%
+           family={Bernardi},
+           familyi={B\bibinitperiod},
+           given={Antonio\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{fullhash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{fullhashraw}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{bibnamehash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{authorbibnamehash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{authornamehash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{authorfullhash}{4dae6236866e04f1497c9414b4b1b8f9}
+      \strng{authorfullhashraw}{4dae6236866e04f1497c9414b4b1b8f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE/ACM International Conference on Automation of Software Test (AST)}
+      \field{title}{SuMo: A Mutation Testing Strategy for Solidity Smart Contracts}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1145/3463274.3463328
+      \endverb
+    \endentry
+    \entry{polkadotwiki2024ocw}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=f795aba68a4bf5407083472866d35604}{%
+           family={{Polkadot Wiki}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{f795aba68a4bf5407083472866d35604}
+      \strng{fullhash}{f795aba68a4bf5407083472866d35604}
+      \strng{fullhashraw}{f795aba68a4bf5407083472866d35604}
+      \strng{bibnamehash}{f795aba68a4bf5407083472866d35604}
+      \strng{authorbibnamehash}{f795aba68a4bf5407083472866d35604}
+      \strng{authornamehash}{f795aba68a4bf5407083472866d35604}
+      \strng{authorfullhash}{f795aba68a4bf5407083472866d35604}
+      \strng{authorfullhashraw}{f795aba68a4bf5407083472866d35604}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learn: Off-chain Workers and Testing Infrastructure}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wiki.polkadot.com/learn/off-chain-workers/
+      \endverb
+      \verb{url}
+      \verb https://wiki.polkadot.com/learn/off-chain-workers/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
